@@ -17,6 +17,7 @@ print "Masukkan tipe satuan suhu";
 input tipe = "";
 
 //eksekusi proses
+<br>
 if (tipe == "fahrenheit "){
     <br>
     output_suhu = (suhu - 32) * (5/9);
